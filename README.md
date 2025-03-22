@@ -31,7 +31,7 @@ News_Restapi/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/News_Restapi.git
+   git clone https://github.com/CrisUlim/News_RestAPI.git
    cd News_Restapi
    ```
 
